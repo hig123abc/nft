@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+USDT代收代付平台搭建(USDT支付平台搭建)
 
-You can use the [editor on GitHub](https://github.com/hig123abc/nft/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+哪儿有usdt（电子货币）第三方支付接口的源代码呢？
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+联系我们获取电子货币（USDT）代收、代付搭建方案，我们会提供源代码，并给予技术支持助您快速搭建电子货币支付通道。
 
-### Markdown
+功能：
+1、支持TRC20、ERC20协议。
+2、支持API接入。
+3、一站式解决支付接入。
+4、支持代理合营模式。
+5、代理方、商户接入方、运营方后台管理系统。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们是一只拥有多年区块链开发经验的技术团队，团队成员均来自国内知名的互联网公司，我们的宗旨是为客户提供优质的电子货币支付解决方案。
 
-```markdown
-Syntax highlighted code block
+为什么选择我们？
+1、您不需要组建大型的技术研发团队，我们提供成品和源代码。
+2、从0开发电子货币支付平台需要高昂的开发成本和技术风险。
+3、我们会一直提供技术支持，实施上线和开发维护。
+4、我们会提供源代码，您也可以继续再次开发。
+5、我们拥有优良的技术架构和大数据存储，支持高并发。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hig123abc/nft/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+还在犹豫什么呢？
+联系TG小飞机 @kite202
